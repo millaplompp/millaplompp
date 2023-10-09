@@ -8,6 +8,6 @@
 
 <div><br>
   <img height= "180em" src= "https://github-readme-stats.vercel.app/api?username=millaplompp&show_icons=true&theme=gruvbox"/>
-  <img height= "180em" src= "[https://github-readme-stats.vercel.app/api/top-langs/?username=millaplompp&hide_progress=true](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=DonutChartlayout"/>
+  <img height= "180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=DonutChartlayout"/>
  
 </div>
