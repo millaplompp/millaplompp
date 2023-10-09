@@ -7,5 +7,5 @@
 </div>
 
 <div><br>
-  <img height= "180em" src= "https://github-readme-stats.vercel.app/api?username=millaplompp&show_icons=true&theme=dark"/>
+  <img height= "180em" src= "https://github-readme-stats.vercel.app/api?username=millaplompp&show_icons=true&theme=gruvbox"/>
 </div>
