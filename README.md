@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8600F7&center=true&width=435&lines=Hey%2C+my+name+is+Milla!;You're+welcome!)](https://git.io/typing-svg)
 
-<div><br>
+<div>
   <img height= "180em" src= "https://github-readme-stats.vercel.app/api?username=millaplompp&show_icons=true&theme=tokyonight"/> 
 </div>
 
